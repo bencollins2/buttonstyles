@@ -1,0 +1,120 @@
+/* Blue button */
+
+button {
+    padding: 15px 25px;
+
+    line-height: 1;
+
+    cursor: pointer;
+    transition: all .3s ease;
+
+    border: none;
+    border-bottom: 3px solid;
+    background-color: #00274c;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+button a {
+    font-size: 1rem;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 500;
+
+    text-decoration: none;
+
+    color: white;
+}
+
+button:hover {
+    background-color: #335270;
+    box-shadow: none;
+}
+
+button:hover a {
+    font-weight: bold;
+
+    text-decoration: none;
+
+    color: white;
+}
+
+
+/* Yellow button */
+
+button {
+    padding: 15px 25px;
+
+    line-height: 1;
+
+    cursor: pointer;
+    transition: all .3s ease;
+
+    border: none;
+    background-color: #ffcb05;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+button a {
+    font-size: 1rem;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 500;
+
+    text-decoration: none;
+
+    color: #333;
+}
+
+button:hover {
+    background-color: #eaba00;
+    box-shadow: none;
+}
+
+button:hover a {
+    font-weight: bold;
+
+    text-decoration: none;
+
+    color: black;
+}
+
+
+/* Blue w/ Yellow Detail */
+
+button {
+    padding: 15px 25px;
+
+    line-height: 1;
+
+    cursor: pointer;
+    transition: all .3s ease;
+
+    border: none;
+    border-bottom: 4px solid #ffcb05;
+    background-color: #00274c;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+button a {
+    font-size: 1rem;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 500;
+
+    text-decoration: none;
+
+    color: white;
+}
+
+button:hover {
+    background-color: #335270;
+    box-shadow: none;
+}
+
+button:hover a {
+    font-weight: bold;
+
+    text-decoration: none;
+
+    color: white;
+}
